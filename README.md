@@ -14,10 +14,6 @@ Features
 - Main content area for song lists and player controls
 - Footer with additional links
 
-Screenshots
-
-![Homepage](screenshots/homepage.png)
-![Playlist](screenshots/playlist.png)
 
 Installation
 
